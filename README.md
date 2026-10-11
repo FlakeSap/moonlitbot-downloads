@@ -5,7 +5,7 @@
 ## MoonlitBot for Windows
 
 **[Download MoonlitBot-Setup.exe](https://github.com/FlakeSap/moonlitbot-downloads/releases/latest/download/MoonlitBot-Setup.exe)**
-(version 1.0.0, about 107 MB, Windows 10 and 11, 64-bit)
+(version 1.1.0, about 107 MB, Windows 10 and 11, 64-bit)
 
 - The installer lets you choose where MoonlitBot is installed.
 - The app is MoonlitBot in its own window with its own icon. It opens the live site, so you always get the newest MoonlitBot, and it needs an internet connection, like the website.
@@ -19,10 +19,10 @@ Each release also holds `latest.yml` and `MoonlitBot-Setup.exe.blockmap`. The ap
 
 ### Check your download (optional)
 
-The SHA-256 of `MoonlitBot-Setup.exe` (version 1.0.0) is:
+The SHA-256 of `MoonlitBot-Setup.exe` (version 1.1.0) is:
 
 ```
-A3611DED4838AE1CF161E46CDCC5CC6044BB230BEF89A9AB55254B5682ABE14B
+A48DD59E316C69CAF0BFECE350F0AF1F152DA2F0F0D68A1CEEEEFF617B924E13
 ```
 
 In PowerShell: `Get-FileHash .\MoonlitBot-Setup.exe -Algorithm SHA256`
